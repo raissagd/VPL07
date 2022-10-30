@@ -1,4 +1,7 @@
 # VPL07
+
+### Atividade da disciplina de PDS II, da UFMG ~ Feito por Duda e Raissa
+
 # Tarefas ainda a definir
 - [x] Conversar sobre a lógica do programa
 - [x] Implementar o HPP
